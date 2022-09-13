@@ -1,0 +1,9 @@
+html{
+   background-color: yellow;
+}
+body{
+   background-color: blue;
+   margin: 0;
+   height: 50vh;
+   border: 1px solid-yellow;
+}
